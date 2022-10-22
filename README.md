@@ -5,6 +5,14 @@ Pagina web local que funciona en base a una tabla de usuarios telefonicos sql, c
 con un CRUD BASICO, se pueden dar bajas de usuario, crear nuevos registros y modificar sobre estos registros
 validando la existencia de estos.
 
+## Algunas capturas
+Pagina principal
+![App Screenshot](https://i.postimg.cc/vZ3StGwr/image.png)
+Formulario de registro
+![App Screenshot](https://i.postimg.cc/mkjQW2wV/image.png)
+Mostrar usuario agregado
+![App Screenshot](https://i.postimg.cc/XYGyQgTs/image.png)
+
 ## Autor del proyecto.
 
 - [@RGpro 17](https://github.com/richardpro17)
